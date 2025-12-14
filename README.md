@@ -45,7 +45,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imred42&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/imred42)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/c-xiong)
 [![Website](https://img.shields.io/badge/Website-chenfeixiong.com-blue?style=flat-square&logo=google-chrome)](https://chenfeixiong.com)
 
 ---
