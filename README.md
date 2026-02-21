@@ -39,8 +39,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-xiong&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 [![Website](https://img.shields.io/badge/Website-chenfeixiong.com-blue?style=flat-square&logo=google-chrome)](https://chenfeixiong.com)
